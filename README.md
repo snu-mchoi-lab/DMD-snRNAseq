@@ -1,4 +1,4 @@
-# DMD snRNA-seq analtysis
+# DMD snRNA-seq analysis
 
 ## Contact
 
